@@ -20,5 +20,6 @@ Extract the APK using some unzip program. DLLs are in folder "assemblies"
 The API class contains in package `PocketLibraryClientCommon.WebClients.RestClient`
 
 ## I don't hold any responsibility on what are you doing with this discovery.
-If you do something bad and harmful using my documentation, you're responsible for it.
-And I don't guarantee 100% correctness on the documentation, as it can change without anyone noticing it.
+If you do something bad and harmful using my documentation, you're responsible for it, I don't hold any liability.
+
+Note: this API's maintainer can change something and my documentation will be outdated,
