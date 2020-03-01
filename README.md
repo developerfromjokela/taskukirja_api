@@ -13,7 +13,7 @@ They have different API Server.
 Taskukirja app: https://taskukirja.enisoft.fi/prd
 KirjastoON app: https://aurora-kerava.enisoft.fi/prd
 
-## Documentation Root
+## Documentation
 - Login Request ([login_request.md](https://github.com/developerfromjokela/taskukirja_api/blob/master/login_request.md))
 
 ## How can I reverse-engineer more stuff?
