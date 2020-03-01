@@ -3,10 +3,15 @@ Reverse-Engineered Taskukirja API Documentation
 
 In this repository, I will make an documentation how to use Taskukirja API in your projects.
 
-There are several "Clone apps" of Taskukirja app. They have different API Server.
+#### What is Taskukirja? Never heard about
+Taskukirja is a Android application for Finnish libraries for easy access to its services on mobile.
 
-Taskukirja: https://taskukirja.enisoft.fi/prd
-KirjastoON: https://aurora-kerava.enisoft.fi/prd
+#### One extra info about Taskukirja, pay attention!
+There are several "Clone apps", in some cases identical apps of Taskukirja app. 
+They have different API Server.
+
+Taskukirja app: https://taskukirja.enisoft.fi/prd
+KirjastoON app: https://aurora-kerava.enisoft.fi/prd
 
 ## Documentation Root
 - Login Request (`login_request.md`)
