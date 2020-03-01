@@ -15,3 +15,7 @@ Simple, the app is written in Xamarin, and you can extract DLLs from APK and rea
 
 You can use tools such as ILSpy or dotPeek to read the source code.
 Extract the APK using some unzip program. DLLs are in folder "assemblies"
+
+
+I don't hold any responsibility on what are you doing with this discovery.
+And I don't guarantee 100% correctness on the documentation, as it can change without anyone noticing it.
