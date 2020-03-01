@@ -17,5 +17,6 @@ You can use tools such as ILSpy or dotPeek to read the source code.
 Extract the APK using some unzip program. DLLs are in folder "assemblies"
 
 
-I don't hold any responsibility on what are you doing with this discovery.
+## I don't hold any responsibility on what are you doing with this discovery.
+If you do something bad and harmful using my documentation, you're responsible for it.
 And I don't guarantee 100% correctness on the documentation, as it can change without anyone noticing it.
