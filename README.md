@@ -8,6 +8,8 @@ There are several "Clone apps" of Taskukirja app. They have different API Server
 Taskukirja: https://taskukirja.enisoft.fi/prd
 KirjastoON: https://aurora-kerava.enisoft.fi/prd
 
+## Documentation Root
+- Login Request (`login_request.md`)
 
 ## How to continue digging the app?
 
