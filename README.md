@@ -11,13 +11,13 @@ KirjastoON: https://aurora-kerava.enisoft.fi/prd
 ## Documentation Root
 - Login Request (`login_request.md`)
 
-## How to continue digging the app?
+## How can I reverse-engineer more stuff?
 
 Simple, the app is written in Xamarin, and you can extract DLLs from APK and read the whole source code.
 
 You can use tools such as ILSpy or dotPeek to read the source code.
 Extract the APK using some unzip program. DLLs are in folder "assemblies"
-
+The API class contains in package `PocketLibraryClientCommon.WebClients.RestClient`
 
 ## I don't hold any responsibility on what are you doing with this discovery.
 If you do something bad and harmful using my documentation, you're responsible for it.
