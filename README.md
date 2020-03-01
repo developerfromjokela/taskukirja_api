@@ -14,7 +14,7 @@ Taskukirja app: https://taskukirja.enisoft.fi/prd
 KirjastoON app: https://aurora-kerava.enisoft.fi/prd
 
 ## Documentation Root
-- Login Request (`login_request.md`)
+- Login Request ([login_request.md](https://github.com/developerfromjokela/taskukirja_api/blob/master/login_request.md))
 
 ## How can I reverse-engineer more stuff?
 
