@@ -1,7 +1,10 @@
 ## Login Request
 
 Login request is made using GET request (really? who made this??).
-And all parameters are sent as GET parameters:
+#### Disclaimer
+Remember to URL Encode every parameter's value!
+
+#### GET Params:
 
 - `deviceid`: This parameter doesn't matter, as long it exists, it's gonna work
 - `userid`: Library card number or username
@@ -10,7 +13,7 @@ And all parameters are sent as GET parameters:
 - `uri`: This parameter doesn't matter, as long it exists, it's gonna work
 - `devicetype`: This is used for the Push notifications, value `4` means Android device
 - `apikey`: Find this value in `api_key` file
-
+ #### Responses:
 Example response:
 `{
     "Name": "Example user",
@@ -28,7 +31,7 @@ Error response:
     "Message": "Random error message ;-)"
 }`
 
-There is some possibility, that the ErrorMessage will be the Error text, so be prepared for this error response:
+There is small possibility, that the ErrorMessage can be included instead of `Message`, so be prepared for this error response:
 `{
     "ErrorMessage": "Random error message ;-)"
 }`
