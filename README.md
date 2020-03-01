@@ -1,4 +1,4 @@
-# taskukirja_api
+# Taskukirja API Reverse-engineered
 Reverse-Engineered Taskukirja API Documentation
 
 In this repository, I will make an documentation how to use Taskukirja API in your projects.
