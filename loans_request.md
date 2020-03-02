@@ -4,6 +4,9 @@ To get your active loans, we will need to do a GET request.
 
 URL: `/api/Loan/`
 
+#### Disclaimer
+Remember to URL Encode every parameter's value!
+
 #### Parameters
 
 - `apikey` Find it in the `apikey` file
