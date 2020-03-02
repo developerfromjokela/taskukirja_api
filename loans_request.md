@@ -15,7 +15,16 @@ Remember to URL Encode every parameter's value!
 - `language` Not required as a value, can be `en`, `fi`, `sv`,`ru` or empty. As long the `language` parameter exists, it will work
 
 #### Response
-
+ ###### Statuses:
+ 	- Available for pickup = 1,
+	- Overdue = 2,
+	- Charged = 4,
+	- Fine = 8,
+	- Recall = 10,
+	- Unavailable to pickup = 20,
+	- Renewed = 40,
+	- Not renewed = 80
+    - 
 `
 {
     "Items": [
