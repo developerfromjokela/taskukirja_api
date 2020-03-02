@@ -1,6 +1,8 @@
 ## Login Request
 
 Login request is made using GET request (really? who made this??).
+URL: `/api/PatronLogin/`
+
 #### Disclaimer
 Remember to URL Encode every parameter's value!
 
