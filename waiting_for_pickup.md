@@ -3,6 +3,10 @@
 This request will get your pending books, which should be picked up.
 
 URL: `/api/Hold/`
+
+#### Disclaimer
+Remember to URL Encode every parameter's value!
+
 #### Parameters
 
 
