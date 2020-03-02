@@ -16,7 +16,15 @@ Remember to URL Encode every parameter's value!
 - `language` Required in this request, should be be `en`, `fi`, `sv` or `ru` 
 
 #### Response
-
+ ###### Statuses:
+ 	- Available for pickup = 1,
+	- Overdue = 2,
+	- Charged = 4,
+	- Fine = 8,
+	- Recall = 10,
+	- Unavailable to pickup = 20,
+	- Renewed = 40,
+	- Not renewed = 80
 `
 {
     "Items": [
