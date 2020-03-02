@@ -3,6 +3,10 @@
 This request will get your available pickup locations, when reserving books.
 
 URL: `/api/Hold/PickupLocations`
+
+#### Disclaimer
+Remember to URL Encode every parameter's value!
+
 #### Parameters
 
 
