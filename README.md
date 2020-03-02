@@ -15,6 +15,7 @@ KirjastoON app: https://aurora-kerava.enisoft.fi/prd
 
 ## Documentation
 - Login Request ([login_request.md](https://github.com/developerfromjokela/taskukirja_api/blob/master/login_request.md))
+- Loans Request ([loans_request.md](https://github.com/developerfromjokela/taskukirja_api/blob/master/loans_request.md))
 
 ## How can I reverse-engineer more stuff?
 
