@@ -14,8 +14,7 @@ Remember to URL Encode every parameter's value!
 - `deviceid` Parameter `DeviceId` from the login response
 - `token` Authorization token from them login response
 - `language` Required in this request, should be be `en`, `fi`, `sv` or `ru` 
-- (optional) `bibid` This parameter specifies the area where you're living in. i.e.: Tuusula's ID is: `392532`. Without this parameter, the API will get your default locations.
-
+- (optional) `bibid` This parameter specifies the book you want to loan.
 #### Response
 
 `
