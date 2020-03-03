@@ -18,6 +18,7 @@ KirjastoON app: https://aurora-kerava.enisoft.fi/prd
 - Loans Request ([loans_request.md](https://github.com/developerfromjokela/taskukirja_api/blob/master/loans_request.md))
 - Waiting for pickup ([waiting_for_pickup.md](https://github.com/developerfromjokela/taskukirja_api/blob/master/waiting_for_pickup.md))
 - Pickup locations ([pickup_locations.md](https://github.com/developerfromjokela/taskukirja_api/blob/master/pickup_locations.md))
+- Search ([search_request.md](https://github.com/developerfromjokela/taskukirja_api/blob/master/search_request.md))
 
 ## How can I reverse-engineer more stuff?
 
