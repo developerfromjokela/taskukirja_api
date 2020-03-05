@@ -1,4 +1,4 @@
-## Pickup locations
+## Contact information
 
 This request will get the Kerava Library's information and contact information
 
